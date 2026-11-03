@@ -16,7 +16,8 @@
       "description": "Skills for delegating to and orchestrating other AI agents and CLIs",
       "skills": [
         "opencode-agent-cc",
-        "pi-agent-cc"
+        "pi-agent-cc",
+        "pi-dev"
       ]
     },
     {

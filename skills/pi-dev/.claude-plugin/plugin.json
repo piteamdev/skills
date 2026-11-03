@@ -1,0 +1,11 @@
+{
+  "name": "pi-dev",
+  "description": "Reference and implementation guide for Pi, the extensible terminal coding agent — CLI automation, configuration, skills, extensions, packages, MCP, SDK, RPC, sessions, and safe operation.",
+  "author": {
+    "name": "yamlcrew",
+    "url": "https://yamlcrew.ai"
+  },
+  "homepage": "https://pi.dev",
+  "repository": "https://github.com/yamlcrew/skills",
+  "license": "MIT"
+}

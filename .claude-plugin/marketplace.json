@@ -49,6 +49,16 @@
       "category": "development"
     },
     {
+      "name": "pi-dev",
+      "description": "Reference and implementation guide for Pi, the extensible terminal coding agent — CLI automation, configuration, skills, extensions, packages, MCP, SDK, RPC, sessions, and safe operation.",
+      "author": {
+        "name": "yamlcrew",
+        "url": "https://github.com/yamlcrew/skills"
+      },
+      "source": "./skills/pi-dev",
+      "category": "development"
+    },
+    {
       "name": "effect-ts",
       "description": "Senior engineer for Effect (Effect-TS), the typed functional TypeScript framework — services and layers, typed errors, Schema, concurrency, streams, testing, SQL, and ecosystem integrations.",
       "author": {
